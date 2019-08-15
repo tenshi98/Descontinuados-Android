@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Datos Normales  -->
+    <string name="facebook_app_id">191729744519053</string>
+    <string name="app_name">Supega</string>
+
+    <string name="app_btn_transparency">0.75</string>
+
+    <string name="hint_email">Email</string>
+    <string name="hint_Nombre">Nick</string>
+    <string name="hint_Rut">DNI</string>
+    <string name="hint_fNacimiento">Fecha de Nacimiento</string>
+    <string name="hint_Direccion">Direccion</string>
+    <string name="hint_Fono1">Telefono Movil</string>
+    <string name="hint_Fono2">Telefono Casa</string>
+    <string name="hint_Departamento">Departamento</string>
+    <string name="hint_Provincia">Provincia</string>
+    <string name="hint_Distrito">Distrito</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="hint_estado">Estado</string>
+    <string name="hint_tipo">Tipo de Contacto</string>
+    <string name="hint_edad">Edad</string>
+    <string name="hint_search">Ingrese el nombre del medicamento</string>
+    <string name="hint_hora">Ingrese hora inicio recordatorio</string>
+
+
+    <string name="btn_login">INGRESAR</string>
+    <string name="btn_register">REGISTRARSE</string>
+    <string name="btn_recuperar">RECUPERAR CONTRASEÑA</string>
+    <string name="btn_link_to_register">Registrarse.</string>
+    <string name="btn_link_to_recover">Recuperar Contraseña</string>
+    <string name="btn_link_to_login">Ya estoy registrado, ingresar.</string>
+    <string name="btn_logout">Cerrar Sesion</string>
+    <string name="btn_getcontact">Buscar</string>
+    <string name="btn_volver">Volver</string>
+    <string name="btn_compartir">Invitar</string>
+    <string name="btn_eliminar">Eliminar</string>
+    <string name="btn_modificar">Modificar Datos</string>
+    <string name="btn_follow_on">Iniciar Servicio</string>
+    <string name="btn_follow_off">Detener Servicio</string>
+    <string name="btn_alerta">Generar Alarma</string>
+    <string name="btn_call">Llamar</string>
+    <string name="btn_notificacion">Generar Notificacion</string>
+    <string name="btn_update">Actualizar</string>
+    <string name="btn_pide_mapa_1">Ver ultima ubicacion</string>
+    <string name="btn_pide_mapa_2">Solicitar ubicacion actual</string>
+    <string name="btn_map_show">Ver ubicacion actual</string>
+    <string name="btn_siguiente">Siguiente</string>
+    <string name="btn_mi_ubicacion">Ubicacion Actual</string>
+    <string name="btn_mi_destino">Destino</string>
+    <string name="btn_envio">Enviar mi ubicacion</string>
+    <string name="btn_venta">Vender PIN</string>
+    <string name="btn_venta_hecha">Confirmar Venta</string>
+    <string name="btn_contactar">Contactar</string>
+    <string name="btn_chatear">Chatear</string>
+    <string name="btn_imagen">Modificar Imagen</string>
+    <string name="btn_loginface">Ingresar con Facebook</string>
+    <string name="btn_search1">Buscar por Nombre</string>
+    <string name="btn_search2">Buscar por Medicamento</string>
+    <string name="btn_search3">Buscar por Componente</string>
+    <string name="btn_search4">Buscar por Uso</string>
+    <string name="btn_searchother">Buscar otro</string>
+    <string name="btn_addalarm">Agregar Alarma</string>
+    <string name="btn_crearalarm">Crear Alarma</string>
+    <string name="btn_borraralarm">Borrar Alarma</string>
+    <string name="btn_editaralarm">Editar Alarma</string>
+    <string name="btn_doctor1">Ofertas del Día</string>
+    <string name="btn_doctor2">Ofertas para mi</string>
+    <string name="btn_doctor3">Vida Sana</string>
+    <string name="btn_doctor4">Vademecum</string>
+    <string name="btn_doctor5">Club de Beneficios</string>
+    <string name="btn_seguridad1">Invitar Contactos</string>
+    <string name="btn_seguridad2">Enviar Alerta</string>
+    <string name="btn_mensaje">Enviar mensaje</string>
+    <string name="btn_aceptar">Aceptar</string>
+
+
+
+    <string name="text_welcome">Bienvenido</string>
+    <string name="text_no_data">Sin Datos</string>
+    <string name="text_add_contact">Agregar contactos</string>
+    <string name="text_join_contact">Invitar contactos</string>
+    <string name="text_ubicacion">Ubicacion Actual</string>
+    <string name="text_exit">Confirmar cierre de sesion</string>
+    <string name="text_follow">Seguimiento</string>
+    <string name="text_follow_ex">Tenga en cuenta que al activar el seguimiento se utilizara constantemente el GPS, lo cual puede repercutir en la duracion de bateria</string>
+    <string name="text_del_alarm">Borrar Alertas</string>
+    <string name="text_alarm">Tipo de Alerta</string>
+    <string name="text_del_notif">Borrar Notificaciones</string>
+    <string name="text_notif">Tipo de Notificaciones</string>
+    <string name="text_event">Presione el mapa para poder generar la ubicacion del evento y luego presione siguiente para seleccionar evento</string>
+    <string name="text_search">Seleccione al menos el departamento y la provincia a la cual pertenece la direccion que busca</string>
+    <string name="text_ubicacionfecha">Fecha de actualizacion</string>
+    <string name="text_saldo">Saldo Actual</string>
+    <string name="text_ingreso">Ingreso Datos</string>
+    <string name="text_datos_usuarios">Datos del comprador</string>
+    <string name="text_datos_monto">Monto Venta</string>
+    <string name="text_datos_pin">Valor PIN</string>
+    <string name="text_del_venta">Borrar Ventas</string>
+    <string name="text_nick">Nick</string>
+    <string name="text_med1">Medicamentos</string>
+    <string name="text_med2">Selecciona tu opcion</string>
+    <string name="text_med3">BIOEQUIVALENTE</string>
+    <string name="text_med4">Busqueda</string>
+    <string name="text_med5">Resultados</string>
+    <string name="text_agend1">Agenda Medica</string>
+    <string name="text_agend2">Pastillero Personal</string>
+    <string name="text_agend3">ALARMAS ACTIVAS</string>
+    <string name="text_agend4">Crear Alarma</string>
+    <string name="text_agend5">Editar/Borrar Alarma</string>
+    <string name="text_doctor1">Informacion Util</string>
+    <string name="text_doctor2">Ofertas, Vida sana, Beneficios</string>
+    <string name="text_seguridad1">Mi Red de Seguridad</string>
+    <string name="text_seguridad2">Para casos de emergencia</string>
+
+
+    <string name="action_settings">Opciones</string>
+    <string name="action_search">Buscar</string>
+    <string name="drawer_open">Abrir</string>
+    <string name="drawer_close">Cerrar</string>
+    <string name="label_search">Search</string>
+    <string name="label_multiple_numbers">Multiple numeros</string>
+
+
+    <!-- Datos del menu  -->
+    <string name="nav_item_home">Principal</string>
+    <string name="nav_item_profile">Mi Perfil</string>
+    <string name="nav_item_notif">Mis notificaciones</string>
+    <string name="nav_item_red">Mi Red de Seguridad</string>
+
+
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_home</item>
+        <item>@string/nav_item_profile</item>
+        <item>@string/nav_item_notif</item>
+        <item>@string/nav_item_red</item>
+
+    </string-array>
+
+    <!-- Titulos de las ventanas  -->
+    <string name="title_alert">Crear Alarma</string>
+    <string name="title_contacts_add">Agregar Contacto</string>
+    <string name="title_contacts">Listado de Contactos</string>
+    <string name="title_contacts_view">Datos de Contacto</string>
+    <string name="title_exit">Cerrar Sesion</string>
+    <string name="title_home">Principal</string>
+    <string name="title_map">Mapa</string>
+    <string name="title_profile">Mi Perfil</string>
+    <string name="title_profile_edit">Modificar mi Perfil</string>
+    <string name="title_follow">Ruta Segura</string>
+    <string name="title_sosjoven">SosJoven</string>
+    <string name="title_tutorial">Ver Tutorial</string>
+    <string name="title_alertas">Mis Alertas Generadas</string>
+    <string name="title_alert_view">Detalles de la alerta</string>
+    <string name="title_notificaciones">Mis Notificaciones Recibidas</string>
+    <string name="title_notificaciones_view">Detalles de la Notificacion</string>
+    <string name="title_bien">Notificacion de bienestar</string>
+    <string name="title_pide_mapa">Pedir mapa a</string>
+    <string name="title_pide_contacto">Ubicacion de</string>
+    <string name="title_pide_ult_ubi">Ultima ubicacion</string>
+    <string name="title_event1">Crear Evento paso 1</string>
+    <string name="title_event2">Crear Evento paso 2</string>
+    <string name="title_search1">Buscar Ubicacion paso 1</string>
+    <string name="title_search2">Buscar Ubicacion paso 2</string>
+    <string name="title_redes">Redes a las que pertenezco</string>
+    <string name="title_ventas">Mis ventas</string>
+    <string name="title_search">Buscar</string>
+    <string name="title_result">Resultados</string>
+    <string name="title_chat">Chat</string>
+    <string name="title_img">Subir imagen</string>
+    <string name="title_med1">Medicamentos</string>
+    <string name="title_med2">Buscar Medicamento</string>
+    <string name="title_med3">Resultados</string>
+    <string name="title_agenda">Agenda</string>
+    <string name="title_agendaadd">Agregar alerta</string>
+    <string name="title_agendaedit">Editar Alerta</string>
+    <string name="title_doctor">Informacion Util</string>
+    <string name="title_ofertasdia">Ofertas Diarias</string>
+    <string name="title_ofertasdiadet">Detalle Ofertas diarias</string>
+    <string name="title_ofertasmia">Mis Ofertas</string>
+    <string name="title_ofertasmiadet">Detalle Mis Ofertas</string>
+    <string name="title_vidasanacat">Vida Sana Categorias</string>
+    <string name="title_vidasanalist">Vida Sana Listado</string>
+    <string name="title_vidasanadet">Vida Sana Detalle</string>
+    <string name="title_vademecumcat">Vademecum Categorias</string>
+    <string name="title_vademecumlist">Vademecum Listado</string>
+    <string name="title_vademecumdet">Vademecum Detalle</string>
+    <string name="title_seguridad">Red de Seguridad</string>
+
+
+
+</resources>

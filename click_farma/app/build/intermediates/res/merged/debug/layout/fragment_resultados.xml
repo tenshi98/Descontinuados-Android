@@ -1,0 +1,101 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/menu4"
+    tools:context="info.androidhive.materialdesign.activity.HomeFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/scrollView"
+        android:background="@drawable/fondo_llamado"
+        android:gravity="center|top">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:orientation="vertical"
+            android:gravity="center">
+
+
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Resultados"
+                android:textSize="20dp"
+                android:id="@+id/titulo1"
+                android:layout_marginTop="40dp"
+                android:textColor="@color/color_01" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/text_nick"
+                android:textSize="25dp"
+                android:id="@+id/text_especialidad"
+                android:layout_marginTop="10dp"
+                android:textColor="@color/color_01"
+                android:inputType="textMultiLine"
+                android:textStyle="bold" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Doctor Disponible"
+                android:textSize="20dp"
+                android:id="@+id/titulo2"
+                android:layout_marginTop="40dp"
+                android:textColor="@color/color_01" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/text_nick"
+                android:textSize="25dp"
+                android:id="@+id/text_data"
+                android:layout_marginTop="10dp"
+                android:textColor="@color/color_01"
+                android:inputType="textMultiLine"
+                android:textStyle="bold" />
+
+
+
+
+            <Button
+                android:id="@+id/btnContactar"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="40dip"
+                android:background="@drawable/my_btn_18"
+                android:text="@string/btn_call"
+                android:textAllCaps="false"
+                android:textColor="@color/btn_text1"
+                android:textSize="15dp"
+                android:alpha="@string/app_btn_transparency"/>
+
+            <Button
+                android:id="@+id/btnVolver"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dip"
+                android:background="@drawable/my_btn_18"
+                android:text="@string/btn_volver"
+                android:textAllCaps="false"
+                android:textColor="@color/btn_text1"
+                android:textSize="15dp"
+                android:layout_marginBottom="15dp"
+                android:alpha="@string/app_btn_transparency" />
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</RelativeLayout><!-- From: file:/D:/Proyectos%20Android%20Studio/click_farma/app/src/main/res/layout/fragment_resultados.xml -->

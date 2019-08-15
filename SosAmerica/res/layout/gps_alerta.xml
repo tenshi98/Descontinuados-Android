@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/blanco"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text=" "
+        android:textColor="@color/negro" />
+
+    <Button
+        android:id="@+id/startalarm"
+        style="@android:style/TextAppearance.WindowTitle"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:background="@color/celeste"
+        android:text="Iniciar Envio de Ubicacion"
+        android:textColor="@color/blanco" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text=" "
+        android:textColor="@color/negro" />
+
+    <Button
+        android:id="@+id/cancelalarm"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Cancelar Envio"
+        android:textColor="@color/negro" />
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="match_parent"
+        android:layout_height="324dp"
+        android:src="@drawable/activa2_gr" />
+
+</LinearLayout>

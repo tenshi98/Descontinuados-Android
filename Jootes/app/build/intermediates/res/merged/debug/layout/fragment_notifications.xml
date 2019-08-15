@@ -1,0 +1,54 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/bg_main"
+    tools:context="info.androidhive.materialdesign.activity.HomeFragment">
+
+
+    <LinearLayout
+        android:id="@+id/layoutButtons"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.0"
+        android:padding="10dp">
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/text_del_notif"
+                android:layout_weight="0.11"
+                android:id="@+id/textView"
+                android:layout_gravity="top"
+                android:textSize="28dp"
+                android:layout_marginTop="12dp"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentEnd="true" />
+
+            <ImageButton
+                android:layout_width="48dp"
+                android:layout_height="48dp"
+                android:id="@+id/btnAddContact"
+                android:layout_alignParentRight="true"
+                android:background="@drawable/rectangle"
+                android:src="@drawable/abc_ic_clear_mtrl_alpha" />
+        </RelativeLayout>
+
+
+    </LinearLayout>
+
+    <ListView
+        android:id="@android:id/list"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/layoutButtons"
+        android:weightSum=".50" />
+
+
+</RelativeLayout><!-- From: file:/D:/Proyectos%20Android%20Studio/Jootes/app/src/main/res/layout/fragment_notifications.xml -->

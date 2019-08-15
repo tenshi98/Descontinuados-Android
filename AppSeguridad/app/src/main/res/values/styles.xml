@@ -1,0 +1,53 @@
+<resources>
+
+
+    <!-- Application theme. -->
+
+
+    <style name="Login" parent="Login.Base"></style>
+    <style name="Login.Base" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="colorPrimaryDark">@color/bg_login</item>
+    </style>
+
+    <style name="Register" parent="Register.Base"></style>
+    <style name="Register.Base" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="colorPrimaryDark">@color/bg_register</item>
+    </style>
+
+
+    <style name="MyMaterialTheme" parent="MyMaterialTheme.Base">
+
+    </style>
+
+    <style name="MyMaterialTheme.Base" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="colorPrimary">@color/menu1</item>
+        <item name="colorPrimaryDark">@color/menu1</item>
+        <item name="colorAccent">@color/menu1</item>
+    </style>
+
+
+
+    <style name="ListItem">
+        <item name="android:minHeight">?android:attr/listPreferredItemHeight</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:paddingTop">8dp</item>
+        <item name="android:paddingBottom">8dp</item>
+    </style>
+
+    <style name="btnFondo">
+        <item name="colorPrimary">@color/menu1</item>
+    </style>
+
+
+
+
+
+
+</resources>

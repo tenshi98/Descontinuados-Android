@@ -1,0 +1,46 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/fondo_dr"
+    tools:context="info.androidhive.materialdesign.activity.HomeFragment"
+    android:clickable="true">
+
+
+
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp">
+
+        <ListView
+            android:id="@+id/list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:background="@color/color_01"
+            android:alpha="@string/app_btn_transparency"
+            android:layout_weight="1"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btn_volver"
+            android:id="@+id/btnVolver"
+            android:background="@drawable/my_btn_17"
+            android:textColor="@color/btn_text1"
+            android:alpha="@string/app_btn_transparency"
+            android:layout_marginTop="15dp" />
+
+
+
+
+    </LinearLayout>
+
+
+
+</RelativeLayout><!-- From: file:/D:/Proyectos%20Android%20Studio/click_farma/app/src/main/res/layout/fragment_ofertas.xml -->

@@ -1,0 +1,96 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/bg_main"
+    tools:context="info.androidhive.materialdesign.activity.HomeFragment">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.google.android.gms.maps.MapView
+            android:id="@+id/mapView"
+            android:layout_width="match_parent"
+            android:layout_height="360dp" />
+
+        <TableLayout
+            android:id="@+id/tableLayout1"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" >
+
+
+            <TableRow
+                android:id="@+id/tableRow1"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="1" >
+
+                <ImageButton
+                    android:id="@+id/btn_menu_1"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:src="@drawable/pmenu_verifica_ruta"
+                    android:background="@drawable/my_btn_7"
+                    android:adjustViewBounds="false"
+                    android:scaleType="fitCenter" />
+
+                <ImageButton
+                    android:id="@+id/btn_menu_2"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:src="@drawable/pmenu_eventos"
+                    android:background="@drawable/my_btn_8"
+                    android:scaleType="fitCenter" />
+            </TableRow>
+
+
+            <TableRow
+                android:id="@+id/tableRow2"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="1" >
+
+                <ImageButton
+                    android:id="@+id/btn_menu_3"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:src="@drawable/pmenu_destino"
+                    android:adjustViewBounds="false"
+                    android:background="@drawable/my_btn_8"
+                    android:scaleType="fitCenter" />
+
+                <ImageButton
+                    android:id="@+id/btn_menu_4"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:src="@drawable/pmenu_sosamerica"
+                    android:background="@drawable/my_btn_7"
+                    android:scaleType="fitCenter" />
+            </TableRow>
+
+
+
+
+
+
+
+
+
+
+        </TableLayout>
+
+
+
+
+
+    </LinearLayout>
+
+
+</RelativeLayout><!-- From: file:/D:/Proyectos%20Android%20Studio/EasyPago/app/src/main/res/layout/fragment_home_back.xml -->

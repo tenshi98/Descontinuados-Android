@@ -1,0 +1,65 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/fondo_notifica"
+    tools:context="info.androidhive.materialdesign.activity.HomeFragment"
+    android:padding="10dp">
+
+
+    <LinearLayout
+        android:id="@+id/layoutButtons"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.0"
+        android:padding="10dp">
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/text_del_notif"
+                android:layout_weight="0.11"
+                android:id="@+id/textView"
+                android:layout_gravity="top"
+                android:textSize="28dp"
+                android:layout_marginTop="12dp"
+                android:layout_alignParentLeft="true"
+                android:textColor="@color/color_01" />
+
+            <ImageButton
+                android:layout_width="48dp"
+                android:layout_height="48dp"
+                android:id="@+id/btnAddContact"
+                android:layout_alignParentRight="true"
+                android:background="@drawable/rectangle"
+                android:src="@drawable/abc_ic_clear_mtrl_alpha" />
+        </RelativeLayout>
+
+
+    </LinearLayout>
+
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="false"
+        android:layout_below="@+id/layoutButtons"
+        android:background="@color/color_01"
+        android:alpha="@string/app_btn_transparency"
+        android:weightSum="1">
+
+        <ListView
+            android:id="@android:id/list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+    </TableLayout>
+
+
+</RelativeLayout>

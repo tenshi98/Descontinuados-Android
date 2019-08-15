@@ -1,0 +1,85 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/fondo_alerta"
+    tools:context="info.androidhive.materialdesign.activity.HomeFragment"
+    android:padding="10dp">
+
+
+    <LinearLayout
+        android:id="@+id/layoutButtons"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.0"
+        android:padding="10dp">
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/text_add_contact"
+                android:id="@+id/textView"
+                android:layout_gravity="top"
+                android:textSize="28dp"
+                android:layout_marginTop="12dp"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:textColor="@color/color_01" />
+
+            <ImageButton
+                android:id="@+id/btnAddContact"
+                android:layout_width="48dp"
+                android:layout_height="48dp"
+                android:background="@drawable/rectangle"
+                android:src="@drawable/ic_person_add_white_48dp"
+                android:scaleType="fitCenter"
+                android:padding="2dp"
+                android:baselineAlignBottom="false"
+                android:layout_alignParentRight="true" />
+        </RelativeLayout>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_alignParentBottom="false"
+        android:layout_below="@+id/layoutButtons"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:weightSum="1">
+
+        <ListView
+            android:id="@android:id/list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/color_01"
+            android:alpha="@string/app_btn_transparency"
+            android:layout_weight="0.93" />
+
+        <Button
+            android:layout_below="@+id/list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btn_volver"
+            android:id="@+id/btnVolver"
+            android:background="@drawable/my_btn_14"
+            android:textColor="@color/btn_text1"
+            android:alpha="@string/app_btn_transparency"
+            android:layout_marginTop="15dp" />
+
+    </LinearLayout>
+
+
+
+
+
+
+
+</RelativeLayout>

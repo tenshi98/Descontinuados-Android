@@ -1,0 +1,102 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/bg_alertas"
+    tools:context="info.androidhive.materialdesign.activity.HomeFragment"
+    android:padding="10dp">
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:weightSum="1"
+        android:background="@color/color_01">
+
+        <TableLayout
+            android:layout_width="fill_parent"
+            android:layout_height="60dp"
+            android:layout_weight=".2"
+            android:background="@color/input_24">
+
+            <TableRow
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:gravity="center_horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Ubicacion del empleo"
+                    android:id="@+id/textView5"
+                    android:textColor="@color/color_01"
+                    android:layout_marginTop="5dp"
+                    android:textStyle="bold" />
+            </TableRow>
+        </TableLayout>
+
+        <com.google.android.gms.maps.MapView
+            android:id="@+id/mapView"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight=".8" />
+
+        <TableLayout
+            android:id="@+id/tableLayout1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight=".1">
+
+
+
+
+
+            <TableRow
+                android:id="@+id/tableRow2"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:padding="5dp">
+
+                <Button android:id="@+id/btn_menu_1"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/btn_siguiente"
+                    android:background="@drawable/my_btn_19"
+                    android:textColor="@color/btn_text1"
+                    android:layout_weight=".5" />
+
+                <Button android:id="@+id/btn_menu_2"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/btn_volver"
+                    android:background="@drawable/my_btn_22"
+                    android:textColor="@color/btn_text1"
+                    android:layout_weight=".5" />" />
+
+
+
+            </TableRow>
+
+
+
+
+
+
+
+
+
+
+        </TableLayout>
+
+
+
+
+
+    </LinearLayout>
+
+
+</RelativeLayout>
+<!-- From: file:/D:/Proyectos%20Android%20Studio/supega_ofertador/app/src/main/res/layout/fragment_job_2.xml -->

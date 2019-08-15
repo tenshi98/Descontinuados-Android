@@ -1,0 +1,122 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="info.androidhive.materialdesign.activity.HomeFragment"
+    android:background="@color/menu3"
+    android:clickable="true">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/fondo_dr"
+        android:gravity="center|top">
+
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp">
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/text_doctor1"
+                    android:id="@+id/textView2"
+                    android:layout_gravity="center_horizontal"
+                    android:textColor="@color/color_01"
+                    android:textSize="26dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/text_doctor2"
+                    android:id="@+id/textView3"
+                    android:layout_gravity="center_horizontal"
+                    android:textColor="@color/color_01"
+                    android:textSize="18dp" />
+            </LinearLayout>
+        </TableRow>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btn_doctor1"
+            android:id="@+id/btn_doctor1"
+            android:background="@drawable/my_btn_17"
+            android:textColor="@color/btn_text1"
+            android:layout_marginTop="26dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="25dp"
+            android:alpha="@string/app_btn_transparency"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btn_doctor2"
+            android:id="@+id/btn_doctor2"
+            android:background="@drawable/my_btn_17"
+            android:textColor="@color/btn_text1"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="25dp"
+            android:alpha="@string/app_btn_transparency"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btn_doctor3"
+            android:id="@+id/btn_doctor3"
+            android:background="@drawable/my_btn_17"
+            android:textColor="@color/btn_text1"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="25dp"
+            android:alpha="@string/app_btn_transparency"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btn_doctor4"
+            android:id="@+id/btn_doctor4"
+            android:background="@drawable/my_btn_17"
+            android:textColor="@color/btn_text1"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="25dp"
+            android:alpha="@string/app_btn_transparency"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btn_doctor5"
+            android:id="@+id/btn_doctor5"
+            android:background="@drawable/my_btn_17"
+            android:textColor="@color/btn_text1"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="25dp"
+            android:alpha="@string/app_btn_transparency"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btn_volver"
+            android:id="@+id/btn_volver"
+            android:background="@drawable/my_btn_17"
+            android:textColor="@color/btn_text1"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="25dp"
+            android:alpha="@string/app_btn_transparency"/>
+    </LinearLayout>
+
+
+</RelativeLayout><!-- From: file:/D:/Proyectos%20Android%20Studio/click_farma/app/src/main/res/layout/fragment_doctor.xml -->

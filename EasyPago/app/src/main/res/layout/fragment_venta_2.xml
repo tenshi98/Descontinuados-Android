@@ -1,0 +1,161 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/bg_main"
+    tools:context="info.androidhive.materialdesign.activity.HomeFragment">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/text_datos_usuarios"
+                android:id="@+id/textView1"
+                android:textSize="25dp"
+                android:layout_gravity="center_horizontal" />
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="10dp"
+                android:padding="10dp">
+
+                <ImageView
+                    android:src="@drawable/ic_user_registrado"
+                    android:id="@+id/circular_image_view"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:scaleType="centerInside" />
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <TextView
+                        android:id="@+id/Nombre"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_alignParentTop="true"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginTop="1dp"
+                        android:layout_toRightOf="@+id/circular_image_view"
+                        android:singleLine="true"
+                        android:text="@string/hint_Nombre"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:textColor="@color/txt_texto"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/fono"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignLeft="@+id/Nombre"
+                        android:layout_below="@+id/Nombre"
+                        android:singleLine="true"
+                        android:text="@string/hint_Fono1"
+                        android:textColor="@color/txt_texto"
+                        android:textStyle="bold"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginTop="1dp" />
+
+
+
+
+
+                </LinearLayout>
+            </TableRow>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/text_datos_monto"
+                android:id="@+id/textView4"
+                android:textSize="25dp"
+                android:layout_gravity="center_horizontal" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/text_datos_pin"
+                android:id="@+id/label_Rut"
+                android:textColor="@color/txt_remarcado"
+                android:textStyle="bold" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/text_no_data"
+                android:id="@+id/Valorpin"
+                android:textColor="@color/txt_texto"
+                android:textStyle="bold"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:layout_marginLeft="5dp" />
+
+
+        </LinearLayout>
+
+
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="10dp"
+                android:layout_alignParentBottom="true"
+                android:layout_marginBottom="20dp">
+
+                <Button
+                    android:id="@+id/btnVolver"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/my_btn_8"
+                    android:text="@string/btn_volver"
+                    android:textAllCaps="false"
+                    android:textColor="@color/btn_text1"
+                    android:textSize="15dp"
+                    android:layout_weight=".50"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp" />
+
+                <Button
+                    android:id="@+id/btnConfirmar"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/my_btn_8"
+                    android:text="@string/btn_venta_hecha"
+                    android:textAllCaps="false"
+                    android:textColor="@color/btn_text1"
+                    android:textSize="15dp"
+                    android:layout_weight=".50"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp" />
+            </LinearLayout>
+        </RelativeLayout>
+
+
+
+
+    </LinearLayout>
+
+
+</RelativeLayout>

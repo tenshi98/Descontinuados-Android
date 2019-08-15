@@ -1,0 +1,16 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/bg_main"
+    tools:context="info.androidhive.materialdesign.activity.HomeFragment">
+
+
+    <WebView
+        android:id="@+id/activity_main_webview"
+        android:layout_height="fill_parent"
+        android:layout_width="match_parent" />
+
+
+</RelativeLayout>

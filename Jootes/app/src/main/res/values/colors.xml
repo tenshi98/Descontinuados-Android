@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- colores del fondo -->
+    <color name="bg_login">#222222</color>
+    <color name="bg_register">#222222</color>
+    <color name="bg_main">#ffffff</color>
+    <color name="bg_alertas">#e8521d</color>
+
+    <!-- colores textos -->
+    <color name="txt_titulo">#222222</color>
+    <color name="txt_subtitulo">#999999</color>
+    <color name="txt_texto">#888888</color>
+    <color name="txt_remarcado">#3b4148</color>
+
+
+    <!-- colores formularios -->
+    <color name="frm_bg">#ffffff</color>
+    <color name="frm_input">#222222</color>
+    <color name="frm_placeholder">#999999</color>
+
+
+    <!-- colores textos botones -->
+    <color name="btn_text1">#ffffff</color>
+
+    <!-- colores  botones -->
+    <color name="btn1_bg">#06212d</color>
+    <color name="btn1_push">#163142</color>
+    <color name="btn1_ripple">#1e3b49</color>
+
+    <color name="btn2_bg">#ff4b28</color>
+    <color name="btn2_push">#ff7700</color>
+    <color name="btn2_ripple">#ff9a00</color>
+
+    <color name="btn3_bg">#4c5c37</color>
+    <color name="btn3_push">#697952</color>
+    <color name="btn3_ripple">#888d4a</color>
+
+    <color name="btn4_bg">#006f62</color>
+    <color name="btn4_push">#2a9689</color>
+    <color name="btn4_ripple">#2cb89e</color>
+
+    <color name="btn5_bg">#ac5f04</color>
+    <color name="btn5_push">#e19120</color>
+    <color name="btn5_ripple">#f1ad24</color>
+
+    <color name="btn6_bg">#e8521d</color>
+    <color name="btn6_push">#F25C0A</color>
+    <color name="btn6_ripple">#FC6600</color>
+
+    <color name="btn7_bg">#005eec</color>
+    <color name="btn7_push">#0072E2</color>
+    <color name="btn7_ripple">#009ACE</color>
+
+    <color name="btn8_bg">#00a4b8</color>
+    <color name="btn8_push">#24B6B0</color>
+    <color name="btn8_ripple">#1ACAA6</color>
+
+    <color name="btn9_bg">#E8271D</color>
+    <color name="btn9_push">#F23109</color>
+    <color name="btn9_ripple">#FC3B00</color>
+
+    <color name="btn10_bg">#A4A2A3</color>
+    <color name="btn10_push">#A7A9AE</color>
+    <color name="btn10_ripple">#DEDEDE</color>
+
+    <color name="btn11_bg">#ec8d00</color>
+    <color name="btn11_push">#F69700</color>
+    <color name="btn11_ripple">#FFA100</color>
+
+    <color name="btn12_bg">#ba462e</color>
+    <color name="btn12_push">#C4501A</color>
+    <color name="btn12_ripple">#CE5A06</color>
+
+    <color name="btn13_bg">#28dbff</color>
+    <color name="btn13_push">#1EEFF5</color>
+    <color name="btn13_ripple">#14FFEB</color>
+
+    <!-- colores varios -->
+    <color name="color_01">#ffffff</color>
+    <color name="color_02">#eceef1</color>
+    <color name="color_03">#000000</color>
+    <color name="input_04">#222222</color>
+    <color name="input_05">#333333</color>
+    <color name="input_06">#3b4148</color>
+    <color name="input_07">#5e6266</color>
+    <color name="input_08">#888888</color>
+    <color name="input_09">#999999</color>
+    <color name="input_10">#F50057</color>
+    <color name="input_11">#C51162</color>
+    <color name="input_12">#ff6861</color>
+    <color name="input_13">#FF80AB</color>
+    <color name="input_14">#ff4f00</color>
+    <color name="input_15">#ff1704</color>
+    <color name="input_16">#FF2D00</color>
+    <color name="input_17">#26ae90</color>
+    <color name="input_18">#aca7a9</color>
+    <color name="input_19">#8195d4</color>
+    <color name="input_20">#43c2d1</color>
+    <color name="input_21">#00a7c1</color>
+    <color name="input_22">#008ad5</color>
+    <color name="input_23">#24299a</color>
+    <color name="input_24">#1d61ac</color>
+
+
+    <!-- colores del menu principal -->
+    <color name="menu1">#e8521d</color>
+    <color name="menu2">#005eec</color>
+    <color name="menu3">#2ea2ba</color>
+    <color name="menu4">#e8271d</color>
+    <color name="menu5">#ff6600</color>
+    <color name="menu6">#a4a2a3</color>
+
+    <!-- colores del menu sosjoven -->
+    <color name="sos_joven_1">#79C1CF</color>
+    <color name="sos_joven_2">#8694D1</color>
+    <color name="sos_joven_3">#0089D1</color>
+    <color name="sos_joven_4">#2A2D96</color>
+
+</resources>

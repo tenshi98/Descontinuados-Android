@@ -1,0 +1,84 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/bg_main"
+    tools:context="info.androidhive.materialdesign.activity.HomeFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_weight="1"
+        android:layout_centerVertical="true">
+
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight=".50">
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/Sosjoven"
+                android:src="@drawable/sosjoven_main"
+                android:scaleType="fitCenter"
+                android:background="@color/menu3" />
+        </TableRow>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight=".25">
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/Sosjoven_1"
+                android:background="@color/sos_joven_1"
+                android:src="@drawable/sosjoven_ubicacion"
+                android:scaleType="fitCenter"
+                android:layout_weight=".50" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/Sosjoven_2"
+                android:background="@color/sos_joven_2"
+                android:src="@drawable/sosjoven_destino"
+                android:scaleType="fitCenter"
+                android:layout_weight=".50" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight=".25">
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/Sosjoven_3"
+                android:background="@color/sos_joven_3"
+                android:src="@drawable/sosjoven_sinauto"
+                android:scaleType="fitCenter"
+                android:layout_weight=".50" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/Sosjoven_4"
+                android:background="@color/sos_joven_4"
+                android:src="@drawable/sosjoven_llamame"
+                android:scaleType="fitCenter"
+                android:layout_weight=".50" />
+        </LinearLayout>
+    </LinearLayout>
+
+
+</RelativeLayout><!-- From: file:/D:/Proyectos%20Android%20Studio/AppSeguridad/app/src/main/res/layout/fragment_sos_joven.xml -->

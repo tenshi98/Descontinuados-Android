@@ -1,0 +1,61 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/menu4"
+    tools:context="info.androidhive.materialdesign.activity.HomeFragment">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/scrollView3"
+        android:background="@drawable/fondo_llamado"
+        android:gravity="center|top">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="?attr/actionBarSize"
+            android:orientation="vertical"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:id="@+id/linearLayout2"
+            android:paddingTop="0dp"
+            android:paddingBottom="30dp">
+
+
+            <Spinner
+                android:id="@+id/spinner1"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:paddingTop="5dp"
+                android:paddingBottom="5dp"
+                android:layout_marginBottom="5dp"
+                android:background="@color/color_01"/>
+
+            <Button android:id="@+id/btnBuscar"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/btn_getcontact"
+                android:background="@drawable/my_btn_18"
+                android:textColor="@color/btn_text1"
+                android:layout_marginTop="40dp"
+                android:alpha="@string/app_btn_transparency"/>
+
+            <Button android:id="@+id/btnVolver"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/btn_volver"
+                android:background="@drawable/my_btn_18"
+                android:textColor="@color/btn_text1"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="40dp"
+                android:alpha="@string/app_btn_transparency"/>
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</RelativeLayout>

@@ -1,0 +1,56 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@drawable/fondo_perfil">
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp"
+        android:padding="10dp"
+        android:background="@color/color_01"
+        android:alpha="@string/app_btn_transparency">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Elegir imagen"
+            android:id="@+id/buttonChoose"
+            android:background="@drawable/my_btn_16"
+            android:textColor="@color/btn_text1"
+            android:alpha="@string/app_btn_transparency"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/imageView"
+            android:layout_margin="10dp" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Subir Imagen"
+            android:id="@+id/buttonUpload"
+            android:background="@drawable/my_btn_16"
+            android:textColor="@color/btn_text1"
+            android:alpha="@string/app_btn_transparency"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btn_volver"
+            android:id="@+id/btnVolver"
+            android:background="@drawable/my_btn_16"
+            android:textColor="@color/btn_text1"
+            android:layout_marginTop="6dp"
+            android:alpha="@string/app_btn_transparency"
+            />
+    </LinearLayout>
+
+
+</LinearLayout><!-- From: file:/D:/Proyectos%20Android%20Studio/click_farma/app/src/main/res/layout/fragment_uploadimg.xml -->

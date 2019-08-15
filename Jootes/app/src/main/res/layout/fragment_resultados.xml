@@ -1,0 +1,67 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/bg_main"
+    tools:context="info.androidhive.materialdesign.activity.HomeFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/scrollView" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:orientation="vertical"
+            android:gravity="center">
+
+
+
+            <com.android.volley.toolbox.NetworkImageView
+                android:layout_width="300dp"
+                android:layout_height="350dp"
+                android:id="@+id/imageView"
+                android:layout_marginTop="15dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/text_nick"
+                android:textSize="20dp"
+                android:id="@+id/text_data"
+                android:layout_marginTop="10dp" />
+
+
+            <Button
+                android:id="@+id/btnContactar"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="40dip"
+                android:background="@drawable/my_btn_8"
+                android:text="@string/btn_chatear"
+                android:textAllCaps="false"
+                android:textColor="@color/btn_text1"
+                android:textSize="15dp" />
+
+            <Button
+                android:id="@+id/btnVolver"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dip"
+                android:background="@drawable/my_btn_8"
+                android:text="@string/btn_volver"
+                android:textAllCaps="false"
+                android:textColor="@color/btn_text1"
+                android:textSize="15dp"
+                android:layout_marginBottom="15dp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</RelativeLayout>

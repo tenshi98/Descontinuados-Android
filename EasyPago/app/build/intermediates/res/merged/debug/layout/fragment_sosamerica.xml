@@ -1,0 +1,62 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/bg_main"
+    tools:context="info.androidhive.materialdesign.activity.HomeFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_weight="1"
+        android:layout_centerVertical="true">
+
+
+        <ImageButton
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:id="@+id/btn_menu_1"
+            android:src="@drawable/menu1"
+            android:background="@drawable/my_btn_2"
+            android:adjustViewBounds="false"
+            android:baselineAlignBottom="false"
+            android:scaleType="fitCenter"
+            android:paddingRight="50dp"
+            android:paddingTop="20dp"
+            android:layout_weight=".70" />
+
+        <ImageButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn_menu_2"
+            android:background="@drawable/my_btn_9"
+            android:src="@drawable/menu4"
+            android:scaleType="fitCenter"
+            android:layout_weight=".10" />
+
+        <ImageButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn_menu_3"
+            android:layout_weight=".10"
+            android:background="@drawable/my_btn_7"
+            android:src="@drawable/menu5"
+            android:scaleType="fitCenter" />
+
+        <ImageButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn_menu_4"
+            android:layout_weight=".10"
+            android:background="@drawable/my_btn_10"
+            android:src="@drawable/menu6"
+            android:scaleType="fitCenter" />
+    </LinearLayout>
+
+
+
+
+
+</RelativeLayout><!-- From: file:/D:/Proyectos%20Android%20Studio/EasyPago/app/src/main/res/layout/fragment_sosamerica.xml -->

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@color/btn21_ripple">
+    <item android:id="@android:id/mask"  android:drawable="@color/btn21_push" />
+    <item android:drawable="@color/btn21_bg"/>
+
+</ripple>
+<!-- From: file:/D:/Proyectos%20Android%20Studio/supega_ofertador/app/src/main/res/drawable-v21/my_btn_21.xml -->

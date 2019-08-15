@@ -1,0 +1,86 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/bg_main"
+    tools:context="info.androidhive.materialdesign.activity.HomeFragment">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:layout_weight="1"
+                android:layout_centerVertical="true">
+
+
+
+                <ImageButton
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/btn_menu_1"
+                    android:background="@color/menu1"
+                    android:src="@drawable/menu1"
+                    android:scaleType="fitCenter"
+                    android:layout_weight=".2" />
+
+                <ImageButton
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/btn_menu_2"
+                    android:layout_weight=".2"
+                    android:background="@color/menu2"
+                    android:src="@drawable/menu2"
+                    android:scaleType="fitCenter" />
+
+                <ImageButton
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/btn_menu_3"
+                    android:layout_weight=".2"
+                    android:background="@color/menu3"
+                    android:src="@drawable/menu3"
+                    android:scaleType="fitCenter" />
+
+                <ImageButton
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/btn_menu_4"
+                    android:layout_weight=".2"
+                    android:background="@color/menu4"
+                    android:src="@drawable/menu4"
+                    android:scaleType="fitCenter" />
+
+                <ImageButton
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/btn_menu_5"
+                    android:layout_weight=".2"
+                    android:background="@color/menu5"
+                    android:src="@drawable/menu5"
+                    android:scaleType="fitCenter" />
+
+            </LinearLayout>
+
+
+
+
+
+
+
+
+
+        </RelativeLayout>
+    </LinearLayout>
+
+
+</RelativeLayout><!-- From: file:/D:/Proyectos%20Android%20Studio/click_farma/app/src/main/res/layout/fragment_home.xml -->

@@ -1,0 +1,119 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="info.androidhive.materialdesign.activity.HomeFragment"
+    android:background="@color/menu1"
+    android:clickable="true">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/fondo_med"
+        android:gravity="center|top">
+
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp">
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/text_med1"
+                    android:id="@+id/textView2"
+                    android:layout_gravity="center_horizontal"
+                    android:textColor="@color/color_01"
+                    android:textSize="26dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/text_med2"
+                    android:id="@+id/textView3"
+                    android:layout_gravity="center_horizontal"
+                    android:textColor="@color/color_01"
+                    android:textSize="18dp" />
+            </LinearLayout>
+        </TableRow>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btn_search1"
+            android:id="@+id/btn_search1"
+            android:background="@drawable/my_btn_14"
+            android:textColor="@color/btn_text1"
+            android:layout_marginTop="26dp"
+            android:layout_marginBottom="26dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="25dp"
+            android:alpha="@string/app_btn_transparency"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/text_med3"
+            android:id="@+id/textView4"
+            android:textColor="@color/color_01"
+            android:textSize="22dp" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btn_search2"
+            android:id="@+id/btn_search2"
+            android:background="@drawable/my_btn_14"
+            android:textColor="@color/btn_text1"
+            android:layout_marginTop="26dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="25dp"
+            android:alpha="@string/app_btn_transparency"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btn_search3"
+            android:id="@+id/btn_search3"
+            android:background="@drawable/my_btn_14"
+            android:textColor="@color/btn_text1"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="25dp"
+            android:alpha="@string/app_btn_transparency"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btn_search4"
+            android:id="@+id/btn_search4"
+            android:background="@drawable/my_btn_14"
+            android:textColor="@color/btn_text1"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="25dp"
+            android:alpha="@string/app_btn_transparency"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btn_volver"
+            android:id="@+id/btn_volver"
+            android:background="@drawable/my_btn_14"
+            android:textColor="@color/btn_text1"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="25dp"
+            android:alpha="@string/app_btn_transparency"/>
+    </LinearLayout>
+
+
+</RelativeLayout>

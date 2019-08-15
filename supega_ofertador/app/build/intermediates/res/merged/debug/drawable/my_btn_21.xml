@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/btn21_push" android:state_focused="true"/>
+    <item android:drawable="@color/btn21_ripple" android:state_pressed="true"/>
+    <item android:drawable="@color/btn21_bg"/>
+
+</selector>
+<!-- From: file:/D:/Proyectos%20Android%20Studio/supega_ofertador/app/src/main/res/drawable/my_btn_21.xml -->

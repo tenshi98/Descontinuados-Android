@@ -1,0 +1,143 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/bg_alertas"
+    tools:context="info.androidhive.materialdesign.activity.HomeFragment">
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/color_01"
+        android:layout_margin="10dp"
+        android:padding="10dp">
+
+        <RelativeLayout
+            android:id="@+id/info"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:adjustViewBounds="true"
+            android:layout_marginTop="40dp"
+            android:layout_marginLeft="20dp">
+
+            <ImageView
+                android:src="@drawable/ic_user_no_registrado"
+                android:id="@+id/icon_user"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:scaleType="centerInside" />
+
+            <TextView
+                android:id="@+id/Nombre"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="1dp"
+                android:layout_toRightOf="@+id/icon_user"
+                android:singleLine="true"
+                android:text="@string/hint_Nombre"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/txt_titulo"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/Fono"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@+id/Nombre"
+                android:layout_below="@+id/Nombre"
+                android:singleLine="true"
+                android:text="@string/hint_Fono1"
+                android:textColor="@color/txt_remarcado"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/TipoContacto"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@+id/Nombre"
+                android:layout_below="@+id/Fono"
+                android:singleLine="true"
+                android:text="@string/hint_tipo"
+                android:textColor="@color/txt_remarcado"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/Estado"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@+id/Fono"
+                android:layout_below="@+id/TipoContacto"
+                android:singleLine="true"
+                android:text="@string/hint_estado"
+                android:textColor="@color/txt_texto"
+                android:textStyle="bold" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/info"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="6dp">
+
+
+            <TableLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+
+
+
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/btn_eliminar"
+                    android:id="@+id/btn_eliminar"
+                    android:background="@drawable/my_btn_20"
+                    android:textColor="@color/btn_text1"
+                    android:layout_marginTop="10dp" />
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/btn_mensaje"
+                    android:id="@+id/btn_compartir"
+                    android:background="@drawable/my_btn_20"
+                    android:textColor="@color/btn_text1"
+                    android:layout_marginTop="10dp" />
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/btn_call"
+                    android:id="@+id/btnLlamar"
+                    android:background="@drawable/my_btn_20"
+                    android:textColor="@color/btn_text1"
+                    android:layout_marginTop="10dp" />
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/btn_volver"
+                    android:id="@+id/btn_volver"
+                    android:background="@drawable/my_btn_20"
+                    android:textColor="@color/btn_text1"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="20dp" />
+
+            </TableLayout>
+
+
+        </LinearLayout>
+    </LinearLayout>
+
+
+</RelativeLayout><!-- From: file:/D:/Proyectos%20Android%20Studio/supega_ofertador/app/src/main/res/layout/fragment_contacts_view.xml -->

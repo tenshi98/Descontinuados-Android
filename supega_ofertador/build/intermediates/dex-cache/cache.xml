@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\pre-dexed\debug\classes-16c6f2b05a5b7337c4b917e191e5ccbd37616d4c.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\pre-dexed\debug\classes-4fbe3d7e5ed164fff5fe73298ab185fd236f4561.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0f254ec13d6671680482d2218f01ecf14dfa93e6">
+        <dex dex="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\pre-dexed\debug\classes-3b6fc22516ab2c16abfb67a823abb85ea344ae75.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\pre-dexed\debug\classes-75324ee50f42c280115fe9771019aca863a57969.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\pre-dexed\debug\classes-597cc91ff4b00d44de6d0ae4499eb57606589564.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\pre-dexed\debug\classes-c62b31a695453442311e43ef818ec696f8cf97a5.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\pre-dexed\debug\classes-3260b60898683739b836e0af7c5047c7d97042b8.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\pre-dexed\debug\classes-5c7deb11735fcae1f5804f3fad7d9b2855ee13dc.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-a9971413317a59872eb935afa23db79075404945.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\pre-dexed\debug\classes-c134dfedb831b3e4d8b7a914d855a88c498aeed5.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\pre-dexed\debug\classes-2b669797c8da9b54f9250bf4548c2c0e7187354e.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\pre-dexed\debug\classes-49cc496146333b31618d474905096be60637b36f.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\pre-dexed\debug\classes-e91b1fadfba47ed505bd622235648b6a1d45b2e5.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\pre-dexed\debug\classes-cdaa842fe99d3c3b604a486b04aa8097304b646e.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\pre-dexed\debug\classes-117e6f279794fbb0bc358294d967ea9bd401aff4.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\pre-dexed\debug\classes-0b5f632d106c2543f2033b6dce67c8302e2ee01c.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\pre-dexed\debug\classes-aba1c052ffaca5028c0431c63c3f7338207cbec0.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\pre-dexed\debug\classes-445aad70cdd0e570e3737e45a915c2b7bbed350c.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\pre-dexed\debug\classes-ea5b975935eac8538d9b37036d2bbc1554ec89cb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tenshi98\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-35316261590d5e805f88c8b825fa014ceafb6b12.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\pre-dexed\debug\classes-1488e29d1281db25730fcb5027ce3041ff868a06.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\pre-dexed\debug\classes-cd81b00d2a47458b2fbc18ba2b5efa287bde58d1.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\pre-dexed\debug\classes-915c686cfb8318e9a0413ab599b1235ea971b140.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\pre-dexed\debug\classes-90bd4265ddaac7e6327832d87d4b557f0151ac88.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\pre-dexed\debug\classes-1ea6be59a49cc44dc0e2f6d1a1ba7e8517b024f0.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\pre-dexed\debug\classes-ec0cb10ef531967f18107ae43d9089b7712a0846.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\pre-dexed\debug\classes-95417127ff6b3d0662004413938de623697bb6d6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tenshi98\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-5e50a51885117e0d1e455c20f6ae6a4e4c4d041d.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\pre-dexed\debug\classes-54885a0fc9daba05513f3567898a99907051ccb4.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-67e69994cf0e4e80db7ea76da6f45c163c758c0d.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\pre-dexed\debug\classes-b15da9b77fec56720cf820ccbb23b48e1aa6cc80.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\pre-dexed\debug\classes-bdf9ed050858e8aa4c6893b869bb6afff1cba24e.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\pre-dexed\debug\classes-d309671518ab00b3e42f9cda86fb1f3c958a1495.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\pre-dexed\debug\classes-b4e6b8abbae2d0a9dbfc034a58624af275518eb7.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\pre-dexed\debug\classes-0d9e0d75b52b03b9fc02f47379d92539e39b502e.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\pre-dexed\debug\classes-c17f5848cc4d07151e316633e1be3ee39eeec9b3.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\pre-dexed\debug\classes-fbbf373579a543c2cc0bb5377b438a5d93ca4e81.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\pre-dexed\debug\classes-c4f2562e7fbf14d712cc334d599d0abb41c98625.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\pre-dexed\debug\classes-f27927494b01a63aa83853d54e26a78b98d1d721.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-ae530b2fe717a00113125322718d5014e1bee685.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\pre-dexed\debug\classes-f050199f2c03d5515b776a09ca5ea70294dce4a3.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\pre-dexed\debug\classes-3ed4a8b474b7d124215ae2f83d426279b2f7c4c6.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\pre-dexed\debug\classes-e50ef47c256df279b9003674002233dece357280.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\pre-dexed\debug\classes-84847dc4f8ca6e232212593a3fd0e674ff7fdda6.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\pre-dexed\debug\classes-c7dedc626f678b2a74dba09b09cc8623cf5d3e06.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\pre-dexed\debug\classes-e75b9cf681502893ff9fed46d8559d6e7d95b4b7.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\pre-dexed\debug\classes-2df8302546582f23f70cefcb52c12e8cb072962c.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\pre-dexed\debug\classes-73499cda75a38ef2a0c595104d9472c2e7839e43.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\pre-dexed\debug\classes-59ef0198b6a93dee6283a5b3af8df0d5af686964.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\pre-dexed\debug\classes-37b20aaa3f9bc2b4ce8580699cb556727f186470.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\pre-dexed\debug\classes-825a4b1fc12e962e720a9ff36c919eaf45acca04.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\pre-dexed\debug\classes-0e27076f75eeb3a14d2e23c5946bc5bf213d9240.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\pre-dexed\debug\classes-03e75498961a3d202ae777801ad16819d6e11069.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\pre-dexed\debug\classes-b2fe904259a5fdcf9b79ceee24263b0c2546c474.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0f254ec13d6671680482d2218f01ecf14dfa93e6">
+        <dex dex="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\pre-dexed\debug\classes-b51101ed847fddb80b57cceb8e2b4b82c3b44281.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\pre-dexed\debug\classes-3460bf7a6c484980d4214c9b729df725415dcd4a.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\pre-dexed\debug\classes-3d450a7ece96fe444244c60e968fe5d4b6994375.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-edbd69a53ddc070e4a7e19551f6e1b382c79fe34.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\pre-dexed\debug\classes-fd3301c934146e8e2d4ce12c779c4fc0c0c8e8e7.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\pre-dexed\debug\classes-4b9d4ced523db53f91edf28f5970fd14023f995c.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\pre-dexed\debug\classes-69a7e0158d1886791189f4034f49f5ba57ce6d99.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\pre-dexed\debug\classes-696b52c159943f4495127bd21bf8fa4a7932f9e0.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\Proyectos Android Studio\supega_trabajador\app\build\intermediates\pre-dexed\debug\classes-02de3980be89d104f79e2e310c22732b29de85bf.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="D:\Proyectos Android Studio\supega_ofertador\app\build\intermediates\pre-dexed\debug\classes-b4f85c50bd791c411477ad8a7cce247bc9e04b77.jar" />
+    </item>
+
+</items>

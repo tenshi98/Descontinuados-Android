@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Datos Normales  -->
+    <string name="facebook_app_id">191729744519053</string>
+    <string name="app_name">Jootes</string>
+
+    <string name="hint_email">Email</string>
+    <string name="hint_Nombre">Nick</string>
+    <string name="hint_Rut">DNI</string>
+    <string name="hint_fNacimiento">Fecha de Nacimiento</string>
+    <string name="hint_Direccion">Direccion</string>
+    <string name="hint_Fono1">Telefono Movil</string>
+    <string name="hint_Fono2">Telefono Casa</string>
+    <string name="hint_Departamento">Departamento</string>
+    <string name="hint_Provincia">Provincia</string>
+    <string name="hint_Distrito">Distrito</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="hint_estado">Estado</string>
+    <string name="hint_tipo">Tipo de Contacto</string>
+    <string name="hint_edad">Edad</string>
+
+
+    <string name="btn_login">INGRESAR</string>
+    <string name="btn_register">REGISTRARSE</string>
+    <string name="btn_recuperar">RECUPERAR CONTRASEÑA</string>
+    <string name="btn_link_to_register">Registrarse.</string>
+    <string name="btn_link_to_recover">Recuperar Contraseña</string>
+    <string name="btn_link_to_login">Ya estoy registrado, ingresar.</string>
+    <string name="btn_logout">Cerrar Sesion</string>
+    <string name="btn_getcontact">Buscar</string>
+    <string name="btn_volver">Volver</string>
+    <string name="btn_compartir">Invitar</string>
+    <string name="btn_eliminar">Eliminar</string>
+    <string name="btn_modificar">Modificar Datos</string>
+    <string name="btn_follow_on">Iniciar Servicio</string>
+    <string name="btn_follow_off">Detener Servicio</string>
+    <string name="btn_alerta">Generar Alarma</string>
+    <string name="btn_call">Llamar</string>
+    <string name="btn_notificacion">Generar Notificacion</string>
+    <string name="btn_update">Actualizar</string>
+    <string name="btn_pide_mapa_1">Ver ultima ubicacion</string>
+    <string name="btn_pide_mapa_2">Solicitar ubicacion actual</string>
+    <string name="btn_map_show">Ver ubicacion actual</string>
+    <string name="btn_siguiente">Siguiente</string>
+    <string name="btn_mi_ubicacion">Ubicacion Actual</string>
+    <string name="btn_mi_destino">Destino</string>
+    <string name="btn_envio">Enviar mi ubicacion</string>
+    <string name="btn_venta">Vender PIN</string>
+    <string name="btn_venta_hecha">Confirmar Venta</string>
+    <string name="btn_contactar">Contactar</string>
+    <string name="btn_chatear">Chatear</string>
+    <string name="btn_imagen">Modificar Imagen</string>
+    <string name="btn_loginface">Ingresar con Facebook</string>
+
+    <string name="text_welcome">Bienvenido</string>
+    <string name="text_no_data">Sin Datos</string>
+    <string name="text_add_contact">Agregar contactos</string>
+    <string name="text_join_contact">Invitar contactos</string>
+    <string name="text_ubicacion">Ubicacion Actual</string>
+    <string name="text_exit">Confirmar cierre de sesion</string>
+    <string name="text_follow">Seguimiento</string>
+    <string name="text_follow_ex">Tenga en cuenta que al activar el seguimiento se utilizara constantemente el GPS, lo cual puede repercutir en la duracion de bateria</string>
+    <string name="text_del_alarm">Borrar Alertas</string>
+    <string name="text_alarm">Tipo de Alerta</string>
+    <string name="text_del_notif">Borrar Notificaciones</string>
+    <string name="text_notif">Tipo de Notificaciones</string>
+    <string name="text_event">Presione el mapa para poder generar la ubicacion del evento y luego presione siguiente para seleccionar evento</string>
+    <string name="text_search">Seleccione al menos el departamento y la provincia a la cual pertenece la direccion que busca</string>
+    <string name="text_ubicacionfecha">Fecha de actualizacion</string>
+    <string name="text_saldo">Saldo Actual</string>
+    <string name="text_ingreso">Ingreso Datos</string>
+    <string name="text_datos_usuarios">Datos del comprador</string>
+    <string name="text_datos_monto">Monto Venta</string>
+    <string name="text_datos_pin">Valor PIN</string>
+    <string name="text_del_venta">Borrar Ventas</string>
+    <string name="text_nick">Nick</string>
+
+    <string name="action_settings">Opciones</string>
+    <string name="action_search">Buscar</string>
+    <string name="drawer_open">Abrir</string>
+    <string name="drawer_close">Cerrar</string>
+    <string name="label_search">Search</string>
+    <string name="label_multiple_numbers">Multiple numeros</string>
+
+
+    <!-- Datos del menu  -->
+    <string name="nav_item_home">Principal</string>
+    <string name="nav_item_profile">Mi Perfil</string>
+    <string name="nav_item_notif">Mis notificaciones</string>
+
+
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_home</item>
+        <item>@string/nav_item_profile</item>
+        <item>@string/nav_item_notif</item>
+
+    </string-array>
+
+    <!-- Titulos de las ventanas  -->
+    <string name="title_alert">Crear Alarma</string>
+    <string name="title_contacts_add">Agregar Contacto</string>
+    <string name="title_contacts">Listado de Contactos</string>
+    <string name="title_contacts_view">Datos de Contacto</string>
+    <string name="title_exit">Cerrar Sesion</string>
+    <string name="title_home">Principal</string>
+    <string name="title_map">Mapa</string>
+    <string name="title_profile">Ver mi Perfil</string>
+    <string name="title_profile_edit">Modificar mi Perfil</string>
+    <string name="title_follow">Ruta Segura</string>
+    <string name="title_sosjoven">SosJoven</string>
+    <string name="title_tutorial">Ver Tutorial</string>
+    <string name="title_alertas">Mis Alertas Generadas</string>
+    <string name="title_alert_view">Detalles de la alerta</string>
+    <string name="title_notificaciones">Mis Notificaciones Recibidas</string>
+    <string name="title_notificaciones_view">Detalles de la Notificacion</string>
+    <string name="title_bien">Notificacion de bienestar</string>
+    <string name="title_pide_mapa">Pedir mapa a</string>
+    <string name="title_pide_contacto">Ubicacion de</string>
+    <string name="title_pide_ult_ubi">Ultima ubicacion</string>
+    <string name="title_event1">Crear Evento paso 1</string>
+    <string name="title_event2">Crear Evento paso 2</string>
+    <string name="title_search1">Buscar Ubicacion paso 1</string>
+    <string name="title_search2">Buscar Ubicacion paso 2</string>
+    <string name="title_redes">Redes a las que pertenezco</string>
+    <string name="title_ventas">Mis ventas</string>
+    <string name="title_search">Buscar</string>
+    <string name="title_result">Resultados</string>
+    <string name="title_chat">Chat</string>
+    <string name="title_img">Subir imagen</string>
+
+
+
+</resources>
